@@ -1,1 +1,1 @@
-sample6="Hello world"
+sample6="hello robo"
