@@ -11,3 +11,9 @@ output "sample1" {
 variable "sample" {
   default = "hello hard"
 }
+
+variable "sample6" {}
+
+output "sample6" {
+  value = "var.sample6"
+}
